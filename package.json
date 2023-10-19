@@ -1,6 +1,6 @@
 {
   "name": "react-native-helper-functions",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "React Native helper functions",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,12 @@
     "url": "https://github.com/cagdaseksi/ReactNativeHelper"
   },
   "keywords": ["react-native", "helpers", "funtions"],
-  "author": "cagdaseksi",
+  "author": {
+    "name": "Çağdaş Ekşi",
+    "username": "cagdaseksi",
+    "url": "http://www.cagdaseksi.com",
+    "email": "cagdas.eksi@hotmail.com"
+  },
   "license": "MIT"
 }
 
