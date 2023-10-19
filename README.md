@@ -4,8 +4,15 @@ This is a collection of helper functions for React Native applications.
 
 ## Installation
 
-You can install this package using npm:
+To install this package using npm, open your terminal or command prompt and run the following command:
 
+```bash
+npm install react-native-helpers
+```
+
+```bash
+yarn add react-native-helpers
+```
 
 ## Usage
 
